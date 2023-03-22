@@ -7,4 +7,5 @@ Fit2cloud飞致云高校推广支持
 
 
 MeterSphere高校版：https://www.metersphere.com/edu
+
 Halo高校Cloud版：http://halo.edu.metersphere.com/
