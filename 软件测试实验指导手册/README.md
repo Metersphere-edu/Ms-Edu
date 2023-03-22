@@ -6,6 +6,8 @@
 目前该手册已有苏州、广西、大连等多所高校老师如火如荼编辑撰写中，初版1.0已经发布，欢迎各位高校老师积极参与给予建设性建议，共同维护促进MeterSphere 实验手册内容快速完善。
 
 联系我们：
+
 MeterSphere高校版：https://www.metersphere.com/edu
+
 Halo高校Cloud版：http://halo.edu.metersphere.com/
 
